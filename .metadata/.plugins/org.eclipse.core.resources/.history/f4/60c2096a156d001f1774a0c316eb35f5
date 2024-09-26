@@ -1,5 +1,0 @@
-package com.org.jdbcdriver;
-
-public class StatementUpdateQuery {
-
-}

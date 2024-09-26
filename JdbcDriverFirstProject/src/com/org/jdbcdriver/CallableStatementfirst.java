@@ -13,7 +13,7 @@ public class CallableStatementfirst {
 		if(con!=null)
 		{
 			System.out.println("Connection Established");
-			// CallableStatement work with Procedure and procedure which we creat in sqlComanad line like
+			// CallableStatement work with Procedure and procedure which we create in sqlComanad line like
 			// delimiter //
 			// create procedure procedure_Name(coloum_Name dataType,coloum_Name dataType....
 			// )
@@ -22,7 +22,7 @@ public class CallableStatementfirst {
 			// end
 			// //
 			// this procedure is used to sqlQuery from begin to end. it can be used by procedure name multipletime
-			// which can be used for Reuseablity
+			// which can be used for Reuseable
 			Scanner sc=new Scanner(System.in);
 			System.out.println("Enter the Details to Add in Register table");
 			System.out.println("-------------------------");

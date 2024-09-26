@@ -20,10 +20,13 @@ public class PreparedStatementFirst {
 			String email =sc.nextLine();
 			System.out.println("Enter the Contact to insert");
 			String contact=sc.nextLine();
-			PreparedStatement sta=con.prepareStatement("insert into register values(?,?,?)"); // ? is used as input specifer
+			System.out.println("Enter the address to insert");
+			String address=sc.nextLine();
+			PreparedStatement sta=con.prepareStatement("insert into register values(?,?,?,?)"); // ? is used as input specifer
 			sta.setString(1, name); // push index1 => name
 			sta.setString(2,email); // push index2 => email
 			sta.setString(3, contact); // push index3 => contact
+			sta.setString(4, address);
 			int val=sta.executeUpdate();
 			if(val>0)
 			{
@@ -32,7 +35,7 @@ public class PreparedStatementFirst {
 				ResultSet rs=sta.executeQuery(); // store result
 				while(rs.next())
 				{
-					System.out.println(rs.getString(1)+"\t"+rs.getString(2)+"\t"+rs.getString(3));
+					System.out.println(rs.getString(1)+"\t"+rs.getString(2)+"\t"+rs.getString(3)+"\t"+rs.getString(4));
 				}
 			}
 			else

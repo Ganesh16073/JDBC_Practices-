@@ -1,0 +1,83 @@
+      Resume 
+
+  1) Contact details including a professional email id
+     a) Name
+     b) Professional Title (Software Developer)
+     b) Email  
+     c) Mobile number 
+     d) Links of accounts
+        (GitHub, Hacker-rank, Own Portfolio)          
+ 
+  2) Career objective 
+    Who are you professionally and why do you want to have a career in this field? 
+
+    Result oriented computer science student from XYZ university or college, passionate about developing
+    user-friendly software applications. Excellent problem-solving skills and ability to perform well in a
+    team or individual. Seeking for a start of professional career and an opportunity where I can 
+    enhance knowledge as a software developer and contribute to the organisation or add value to the
+    organisation as well as develop own skills as a coder.
+
+  3) Education or Education Qualification or Academic Qualification
+     a) Should go from present to past
+      - Post graduation (only if you are post graduate)
+      - Graduation
+      - HSC
+      - SSC
+
+  4) Relevant Work experience or Any work experience if have or Internship
+     (Do not write Experience - Fresher)
+    a) Led some people in doing something
+    b) My expertise in geology helped me collect, analyze and overlay the ideal combination of rock
+       and construction materials across a variety of multilane infrastructural projects in the 
+       XYZ company.
+
+  5) Technical skills/Hard skills 
+     Programming Languages: Java, JavaScript, Python
+          Web Technologies: HTML, CSS, React.js, Node.js
+          Database Systems: MySQL, MongoDB
+           Version Control: Git
+         Development Tools: VS Code, Eclipse, JIRA
+
+  6) Soft skills
+    a) Anything that you can count on as a special skill.
+    e.g. Lifelong Learning
+         Emotional Intelligence
+         Financial Management
+         Presentation Skills
+ 
+  7) Projects Undertaken
+    a)Name
+    b)Role
+    c)Framework/language/tool/domain/technology
+    d)Outcome/summary/conclusion 
+    e)Link of the project
+     Or
+    Project name : Inventory Management System
+    -Developed a robust inventory management system using Java and MySQL, 
+     improving tracking accuracy by 35%.
+    -Applied user authentication and authorization features to improve data security.
+    -Conducted system testing and resolved bugs to ensure seamless functionality.
+
+
+  8) Certifications 
+     (Chronology should be Present to Past)
+
+  9) Special Achievements or Achievements 
+
+ 10) Hobbies 
+ 
+ 11) Personal details (Optional)
+      DOB 
+      Address 
+     Languages known  - Mother tongue first(Marathi, Hindi, English)
+      
+ 
+ 12) Declaration 
+
+
+
+
+
+
+
+

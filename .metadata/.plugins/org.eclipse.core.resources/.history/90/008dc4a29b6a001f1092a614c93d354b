@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * 
- */
-module JdbcDriverFirstProject {
-	requires mysql.connector.j;
-}
